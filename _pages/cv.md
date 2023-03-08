@@ -63,9 +63,6 @@ Skills
 ======
 * ArcGIS and ArcPro
 * Automotive manufacturing and design knowledge.
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Solidworks CAD
 * Microsoft Office Suite
 * ENVI
