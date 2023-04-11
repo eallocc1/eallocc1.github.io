@@ -1,5 +1,5 @@
 ---
-title: "OutStanding Car Project"
+title: "Outstanding Car Project"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/baja_image.png'>"
 collection: portfolio
 ---
