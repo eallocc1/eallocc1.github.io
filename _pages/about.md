@@ -10,7 +10,7 @@ redirect_from:
 
 About Eddie Allocca
 ------
-My name is Eddie Allocca.  I'm a senior Geography and Environmental Science B.S. Major at the University of Maryland Baltimore County graduating on May 25, 2023.  I'm from Bogota, Colombia but grew up in Gaithersburg, Maryland.  At UMBC, I took part in the UMBC Racing team all 3/4 years, which is part of the SAE Collegiate Design Baja program.
+My name is Eddie Allocca.  I'm a senior Geography and Environmental Science B.S. Major at the University of Maryland Baltimore County graduating on May 25, 2023.  I'm from Bogota, Colombia but grew up in Gaithersburg, Maryland.  At UMBC, I took part in the UMBC Racing team 3/4 years, which is part of the SAE Collegiate Design Baja program.
 
 Interests
 ------
