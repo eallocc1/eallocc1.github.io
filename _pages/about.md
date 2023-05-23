@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Eddie Allocca"
-excerpt: "Learn more about me and my experience! and interests!"
+excerpt: "Learn more about me, my experiences, and interests!"
 author_profile: true
 redirect_from: 
   - /about/
